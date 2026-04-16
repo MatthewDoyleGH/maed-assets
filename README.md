@@ -9,6 +9,7 @@ Served at **https://assets.maedpartners.com/** via GitHub Pages with a custom su
 | File | Linked from | Notes |
 |---|---|---|
 | `development-of-strategy-workflow.pdf` | `/sectors/higher-education` Module development tile | Sample module workflow — client name redacted |
+| `validation-readiness-checklist.pdf` | `/sectors/higher-education` Validation & approval support tile | Sector-agnostic tool · 13 domains · v1.0 April 2026 |
 
 ## Updating an asset
 
