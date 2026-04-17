@@ -10,6 +10,7 @@ Served at **https://assets.maedpartners.com/** via GitHub Pages with a custom su
 |---|---|---|
 | `development-of-strategy-workflow.pdf` | `/sectors/higher-education` Module development tile | Sample module workflow — client name redacted |
 | `validation-readiness-checklist.pdf` | `/sectors/higher-education` Validation & approval support tile | Sector-agnostic tool · 13 domains · v1.0 April 2026 |
+| `board-performance-appraisal-brochure.pdf` | `/services/governance/board-performance-appraisal` BPA brochure links | Generated from the HTML one-pager via headless Chrome render |
 
 ## Updating an asset
 
